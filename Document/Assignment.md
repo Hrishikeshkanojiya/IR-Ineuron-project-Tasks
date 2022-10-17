@@ -149,3 +149,43 @@ git fetch --all
 ```
 ![git fetch ](https://user-images.githubusercontent.com/96219205/196125070-03bb9e2c-bc5e-4940-ba9f-39d44ae50192.png)
 
+## Task 2 : 
+### open source structure
+![Screenshot from 2022-10-17 22-21-35](https://user-images.githubusercontent.com/96219205/196237064-9009fff6-6e41-47ab-9dc9-6f74a584f03e.png)
+
+### Github Pages Hosted Here:
+[Git & Github](https://hrishikeshkanojiya.github.io/IR-Ineuron-project-Tasks/)
+
+
+## Task 3:
+Kindly check this repository again for Issue, Pull Request, Dependabot alerts here:
+[Git and Github](https://github.com/Hrishikeshkanojiya/IR-Ineuron-project-Tasks)
+
+### Task Screenshots:
+### Opening Issue:
+![Issue](https://user-images.githubusercontent.com/96219205/196222360-06413194-03b7-4887-b12d-ea5a34ddd41c.png)
+
+### Open Pull Request:
+![create pull](https://user-images.githubusercontent.com/96219205/196222195-205cf006-dc03-4524-84b3-e0f68cced078.png)
+
+### Reject Pull Request:
+![reject pull](https://user-images.githubusercontent.com/96219205/196222725-e229ba1e-eec6-41c6-9842-4fdb87facd09.png)
+
+### Merge Pull Request:
+
+![merge pull](https://user-images.githubusercontent.com/96219205/196235669-5841bb91-b8fa-4af2-81fa-dd35337c25f9.png)
+
+### Added Dependabot Alerts:
+![Dependadot](https://user-images.githubusercontent.com/96219205/196236111-8fb92613-4918-48fe-94c7-89a9ec660ec7.png)
+
+### Git Stashing changes:
+![git final stash](https://user-images.githubusercontent.com/96219205/196236244-2b253ffc-692f-420f-9a98-d2661a8ffe99.png)
+
+### Create Release for package:
+![release](https://user-images.githubusercontent.com/96219205/196237399-30e0c997-ef88-4ef7-a12b-33d64a85c2be.png)
+### Added to Projects Board:
+![project board](https://user-images.githubusercontent.com/96219205/196236804-202c19fd-b396-4891-809e-58a81b4a313b.png)
+
+## Thank you 
+
+
